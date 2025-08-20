@@ -22,7 +22,7 @@ const About = () => {
 			</div>
 
 			<div className="row mt-5  gap-5 justify-content-center align-items-center">
-				<div className="col-md-5 mt-5 about-foodie">
+				<div className="col-md-5  about-foodie">
 					<ul className="fw-bold">
 						<h1 className="text-warning">Values / Features</h1>
 						<li>Fresh & healthy food</li>
@@ -31,7 +31,7 @@ const About = () => {
 						<li>Variety of cuisines</li>
 					</ul>
 				</div>
-				<div className="col-md-5 mt-5 about-foodie ">
+				<div className="col-md-5 m about-foodie ">
 					<ul className="fw-bold">
 						<h1 className="text-warning">Why Choose Foodie?</h1>
 						<li>Easy to order</li>

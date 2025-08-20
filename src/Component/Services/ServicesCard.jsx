@@ -46,7 +46,7 @@ const ServicesCard = () => {
 	];
 
 	return (
-		<div className="row mt-5 justify-content-evenly gap-3">
+		<div className="row mt-5 justify-content-evenly gap-3 border">
 			{card.map((cardItem) => {
 				let { method, description, id } = cardItem;
 				return (
